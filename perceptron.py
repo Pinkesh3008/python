@@ -1,3 +1,5 @@
+
+# hey
 #perceptron llearning algorithm for the and gate
 
 import numpy as np     #mathematical stuffs
